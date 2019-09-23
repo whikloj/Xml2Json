@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd">
+    <mods:titleInfo>
+        <mods:title>President-Elect and Prime Minister </mods:title>
+    </mods:titleInfo>
+    <mods:abstract>A photograph showing four men and a buffalo head.</mods:abstract>
+    <mods:identifier type="local">MPC 4.3.63.B</mods:identifier>
+    <mods:location>
+        <mods:physicalLocation>University of Manitoba Faculty of Medicine Archives</mods:physicalLocation>
+        <mods:shelfLocator>MPC 4.3.63</mods:shelfLocator>
+    </mods:location>
+    <mods:typeOfResource>still image</mods:typeOfResource>
+    <mods:subject>
+        <mods:topic authority="lcsh">Medicine</mods:topic>
+        <mods:topic authority="lcsh">Photographs</mods:topic>
+        <mods:topic authority="lcsh">First Nations</mods:topic>
+    </mods:subject>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>British Medical Association  98th Annual Meeting Winnipeg, 1930</mods:title>
+        </mods:titleInfo>
+        <mods:identifier type="pid">uofm:BMA30</mods:identifier>
+        <mods:identifier type="hdl">10719/BMA30</mods:identifier>
+    </mods:relatedItem>
+    <mods:identifier type="pid">uofm:10942</mods:identifier>
+    <mods:identifier type="hdl">10719/10942</mods:identifier>
+    <mods:physicalDescription>
+        <mods:internetMediaType>image/tif</mods:internetMediaType>
+    </mods:physicalDescription>
+    <mods:accessCondition type="Creative Commons License">by-nc/3.0/</mods:accessCondition>
+</mods:mods>

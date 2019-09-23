@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Déclaration de 1908 d'André Nault, Elzéar Lagimodière et Duncan McDougall concernant les événements de 1869-70, extrait, p. 52</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Nault, André, 1830-1925</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">aut</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Lagimodière, Elzéar, 1838-1930</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">aut</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>McDougall, Duncan, 1837-1926</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">aut</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Manitoba</province>
+    </hierarchicalGeographic>
+    <temporal>2010-01-01</temporal>
+  </subject>
+  <name type="personal">
+    <namePart>Jared Whiklo</namePart>
+  </name>
+</mods>

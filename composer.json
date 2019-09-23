@@ -1,0 +1,27 @@
+{
+  "name": "xml_to_json",
+  "description": "Simple command line script to convert XML to JSON, maintaining hierarchy",
+  "type": "project",
+  "version": "1.0.0-alpha",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jared Whiklo",
+      "email": "jwhiklo@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "symfony/console": "^3.4",
+    "fluentdom/fluentdom": "^7.0"
+  },
+  "require-dev":{
+    "phpunit/phpunit": "^4.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "whikloj\\": "src/",
+      "whikoj\\tests\\": "tests/"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Why why why</title>
+    <subTitle></subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Jared Whiklo</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm"></genre>
+  <originInfo>
+    <dateIssued></dateIssued>
+    <publisher></publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code"></placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text"></placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code"></languageTerm>
+  </language>
+  <abstract></abstract>
+  <identifier type="local"></identifier>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent></extent>
+  </physicalDescription>
+  <note></note>
+  <subject>
+    <topic></topic>
+    <geographic></geographic>
+    <temporal></temporal>
+    <name>
+      <namePart></namePart>
+      <namePart type="date"></namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text"></roleTerm>
+      </role>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Manitoba</province>
+      <region></region>
+      <county></county>
+      <city>Winnipeg</city>
+      <citySection></citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates></coordinates>
+    </cartographics>
+  </subject>
+  <location>
+    <physicalLocation></physicalLocation>
+    <shelfLocator></shelfLocator>
+  </location>
+  <relatedItem type="original">
+    <titleInfo>
+      <title></title>
+    </titleInfo>
+    <location>
+      <url></url>
+    </location>
+  </relatedItem>
+  <name type="personal">
+    <namePart>Kelly Ring-Whiklo</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">cre</roleTerm>
+    </role>
+  </name>
+</mods>
